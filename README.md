@@ -1,7 +1,6 @@
 # Hi, I'm Nabil 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## 🚀 About Me
