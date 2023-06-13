@@ -13,7 +13,7 @@ I'm a software engineer passionate about writing code and solving problems. I'm 
 
 ## 💻 Technical Skills
 
-- **Languages**: Python, Java, C, C++
+- **Languages**: Python, Java, C, C++, js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Frameworks/Libraries**: Numpy, Pandas, Django, Flask
 - **Tools**: Git, AWS
