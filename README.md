@@ -20,7 +20,7 @@ I'm a software engineer passionate about writing code and solving problems. I'm 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhalil98&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhalil98&show_icons=true&theme=one_dark_pro)
 
 ## 📫 How to reach me: 
 
