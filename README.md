@@ -24,7 +24,7 @@ I'm a software engineer passionate about writing code and solving problems. I'm 
 
 ## 📫 How to reach me: 
 
-You can find and get touch with me on these sites!
+You can find me on these sites:
 
 - 💼 [LinkedIn](https://linkedin.com/in/nabilkhalil98)
 - 🐦 [Twitter](https://twitter.com/Nabil98k)
