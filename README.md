@@ -8,7 +8,7 @@
 I'm a software engineer passionate about writing code and solving problems. I'm especially interested in backend development and data science.
 
 - 🎓 I'm math graduate from MIT 
-- 🌱 I’m currently learning more about Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open source projects
 
 ## 💻 Technical Skills
